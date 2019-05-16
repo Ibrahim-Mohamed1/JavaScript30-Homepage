@@ -1,33 +1,245 @@
-.App {
-  text-align: center;
+body{
+  background-image: url(./background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+  background-color: black;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.nav:hover {
+    animation: shake 2s;
+    animation-iteration-count: infinite;
   }
-  to {
-    transform: rotate(360deg);
+  @keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-5deg); }
+    20% { transform: translate(-3px, 0px) rotate(5deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(5deg); }
+    50% { transform: translate(-1px, 2px) rotate(-5deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-5deg); }
+    80% { transform: translate(-1px, -1px) rotate(5deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-5deg); }
+  }
+  .link{
+    color: gray;
+    transition: ease-out;
+    transition-duration: 1s;
+  }
+  .link:hover{
+    color: white;
+    transition: ease-out;
+    transition-duration: 0s;
+    cursor: pointer;
+  }
+  .projects {
+    grid-gap: 10px;
+    text-align: center;
+  }
+  .projectInfo{
+    text-align: center;
+    position: absolute;
+    opacity: 1;
+    display: block;
+    padding-top: 2em;
+    width: 100%;
+    height: 95%;
+    color: white;
+  }
+  .projectInfo:hover{
+    opacity: 1;
+  }
+  .middle{
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    transition: .5s ease;
+    color: white;
+  }
+  .middle:hover{
+    opacity: 1;
+  }
+  .middle1{
+    opacity: 0;
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 102%;
+    transition: .5s ease;
+    color: white;
+  }
+  .middle1:hover{
+    opacity: 1;
+  }
+  .project1, .project2, .project3, .project4, .project5, .project6, .project7, .project8, .project9, .project10, .project11, .project12, .project13, .project14, .project15, .project16, .project17, .project18, .project19, .project20, .project21, .project22, .project23, .project24, .project25, .project26, .project27, .project28, .project29, .project30{
+    position: relative;
+    display:inline-block;
+    margin: 0% 2%;
+    border: solid ;
+    border-radius: 10px;
+    background-color:rgba(255, 255, 255, 0.8);
+    margin-top: 20px;
+    margin-bottom: 10px;
+    height: 280px;
+    width: 400px;
+    transition: .5s ease;
+    backface-visibility: hidden;
+    border: solid gray
+  }
+  .project1:hover, .project2:hover, .project3:hover, .project4:hover, .project5:hover, .project6:hover, .project7:hover, .project8:hover, .project9:hover, .project10:hover, .project11:hover, .project12:hover, .project13:hover, .project14:hover, .project15:hover, .project16:hover, .project17:hover, .project18:hover, .project19:hover, .project20:hover, .project21:hover, .project22:hover, .project23:hover, .project24:hover, .project25:hover, .project26:hover, .project27:hover, .project28:hover, .project29:hover, .project30:hover{
+    background-image: url(./default.jpg);
+    opacity: .7;
+    cursor: "pointer";
+  }
+  .project1{
+    background-image: url(./images/app1.png);
+  }
+  .project2{
+    background-image: url(./default.jpg);
+  }
+  .project3{
+    background-image: url(./default.jpg);
+  }
+  .project4{
+    background-image: url(./default.jpg);
+  }
+  .project5{
+    background-image: url(./default.jpg);
+  }
+  .project6{
+    background-image: url(./default.jpg);
+  }
+  .project7{
+    background-image: url(./default.jpg);
+  }
+  .project8{
+    background-image: url(./default.jpg);
+  }
+  .project9{
+    background-image: url(./default.jpg);
+  }
+  .project10{
+    background-image: url(./default.jpg);
+  }
+  .project11{
+    background-image: url(./default.jpg);
+  }
+  .project12{
+    background-image: url(./default.jpg);
+  }
+  .project13{
+    background-image: url(./default.jpg);
+  }
+  .project14{
+    background-image: url(./default.jpg);
+  }
+  .project15{
+    background-image: url(./default.jpg);
+  }
+  .project16{
+    background-image: url(./default.jpg);
+  }
+  .project17{
+    background-image: url(./default.jpg);
+  }
+  .project18{
+    background-image: url(./default.jpg);
+  }
+  .project19{
+    background-image: url(./default.jpg);
+  }
+  .project20{
+    background-image: url(./default.jpg);
+  }
+  .project21{
+    background-image: url(./default.jpg);
+  }
+  .project22{
+    background-image: url(./default.jpg);
+  }
+  .project23{
+    background-image: url(./default.jpg);
+  }
+  .project24{
+    background-image: url(./default.jpg);
+  }
+  .project25{
+    background-image: url(./default.jpg);
+    background-color: darkgray;
+  }
+  .project26{
+    background-image: url(./default.jpg);
+  }
+  .project27{
+    background-image: url(./default.jpg);
+  }
+  .project28{
+    background-image: url(./default.jpg);
+  }
+  .project29{
+    background-image: url(./default.jpg);
+    background-color: darkgray;
+  }
+  .project30{
+    background-image: url(./default.jpg);
+    background-color: darkgray;
+  }
+
+  @media (max-width: 1260px){
+  .projects{
+    margin-left: 0;
+    margin-right: 0;
+  }
+} 
+@media (max-width: 882px){
+  .projects{
+    margin-top: 2em;
+  }
+  .project1, .project2, .project3, .project4, .project5, .project6, .project7, .project8, .project9, .project10, .project11, .project12, .project13, .project14, .project15, .project16, .project17, .project18, .project19, .project20, .project21, .project22, .project23, .project24, .project25, .project26, .project27, .project28, .project29, .project30{
+    height: 230px;
+    width: 300px;
+  }
+} 
+@media (max-width: 768px){
+  .middle1{
+    opacity: 1;
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 102%;
+    transition: .5s ease;
+    color: white;
+  }
+  .project1, .project2, .project3, .project4, .project5, .project6, .project7, .project8, .project9, .project10, .project11, .project12, .project13, .project14, .project15, .project16, .project17, .project18, .project19, .project20, .project21, .project22, .project23, .project24, .project25, .project26, .project27, .project28, .project29, .project30{
+    background-image: url(./default.jpg);
   }
 }
+@media (max-width: 665px){
+  .projects{
+    margin-top: 2em;
+  }
+  .project1, .project2, .project3, .project4, .project5, .project6, .project7, .project8, .project9, .project10, .project11, .project12, .project13, .project14, .project15, .project16, .project17, .project18, .project19, .project20, .project21, .project22, .project23, .project24, .project25, .project26, .project27, .project28, .project29, .project30{
+    height: 300px;
+    width: 380px;
+  }
+} 
+@media (max-width: 520px){
+  
+  .projects{
+    margin-top: 2em;
+  }
+  .project1, .project2, .project3, .project4, .project5, .project6, .project7, .project8, .project9, .project10, .project11, .project12, .project13, .project14, .project15, .project16, .project17, .project18, .project19, .project20, .project21, .project22, .project23, .project24, .project25, .project26, .project27, .project28, .project29, .project30{
+    margin-top: 1em;
+    height: 250px;
+    width: 300px;
+  }
+} 
+@media (min-height: 820px){
+  .projects{
+    margin-top: 4em;
+  }
+} 
