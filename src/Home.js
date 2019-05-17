@@ -29,7 +29,7 @@ const Home = () => {
                 <h3 style={{ ...styles.navMargin, color: "#fbbc06", marginRight: "3%" }}><Link className="link" style={{ textDecoration: "none" }} to="/contact">Contact</Link></h3>
             </div>
             <br />
-            <h1 style={{ textAlign: "center", color: "cyan" }}>JavaScript30 Challenge</h1>
+            <h1 style={{ textAlign: "center", color: "cyan" }}>JavaScript 30 Challenge</h1>
             <div className="projects">
                 <div className="project1" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat", height: "vh" }}>
                     <div className='middle1'>
@@ -52,21 +52,21 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="project2" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat", height: "vh" }}>
-                    <div className='middle'>
-                        <a href="/">
+                    <div className='middle1'>
+                        <a href="http://app2-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
-                                    2. Coming Soon...
+                                    2. JS + CSS Clock
                                 </h2>
-                                {/* <h4 style={{padding: 5}}>
-                                    An endless fun of cat images from the cat API!
+                                <h4 style={{padding: 5}}>
+                                    Functional and simplistic analog clock.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
-                                    avaScript, React, JSX, Axios, Cats API, HTML, & CSS.
+                                    JavaScript, HTML, & CSS.
                                 </p>
                                 <p style={{ margin: 0, marginRight: 5 }}>
-                                    Made: 04/15/2019
-                                </p> */}
+                                    Made: 05/16/2019
+                                </p>
                             </div>
                         </a>
                     </div>
