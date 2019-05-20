@@ -115,6 +115,18 @@ const Home = () => {
                     <div className='middle1'>
                         <a href="http://app5-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
+                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
+                                    5. Flex Panels
+                                </h2>
+                                <h4 style={{padding: 5}}>
+                                    Interactive opening/closing flex panel that display encouraging words.
+                                </h4>
+                                <p style={{ color: "lime", padding: 5 }}>
+                                    JavaScript, HTML, & CSS.
+                                </p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 04/19/2019
+                                </p>
                             </div>
                         </a>
                     </div>
