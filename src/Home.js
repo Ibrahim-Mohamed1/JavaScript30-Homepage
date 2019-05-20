@@ -72,60 +72,61 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="project3" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat", height: "vh" }}>
-                    <div className='middle'>
-                        <a href="/">
+                    <div className='middle1'>
+                        <a href="http://app3-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
-                                    3. Coming Soon...
+                                    3. Scoped CSS Variables & CSS
                                 </h2>
-                                {/* <h4 style={{padding: 5}}>
-                                    Simple weather app to quickly allow a user to access weather in any zip code in the United States.
+                                <h4 style={{padding: 5}}>
+                                    Simple app that enables a user to quickly adjust styling on screen with implemented JS functionality.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
-                                    JavaScript, React, JSX, Axios, OpenWeather API, HTML, & CSS.
+                                    JavaScript, HTML, & CSS.
                                 </p>
                                 <p style={{ margin: 0, marginRight: 5 }}>
-                                    Made: 04/16/2019
-                                </p> */}
+                                    Made: 04/17/2019
+                                </p>
                             </div>
                         </a>
                     </div>
                 </div>
                 <div className="project4" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat", height: "vh" }}>
-                    <div className='middle'>
-                        <a href="/">
+                    <div className='middle1'>
+                        <a href="http://app4-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
-                                    4. Coming Soon...
+                                    4. Array Cardio
                                 </h2>
-                                {/* <h4 style={{padding: 5}}>
-                                    Simple app to help users find artists similar to the ones they are currently listening to.
+                                <h4 style={{padding: 5}}>
+                                    Practiced higher order functions such as filter, sort, map, and reduce.
                                 </h4>
-                                <p style={{ color: "lime", padding: 5 }}>J
-                                    avaScript, React, JSX, Axios, TasteDive API, HTML, & CSS.
+                                <p style={{ color: "lime", padding: 5 }}>
+                                    JavaScript, HTML, & CSS.
                                 </p>
                                 <p style={{ margin: 0, marginRight: 5 }}>
-                                    Made: 04/17/2019
-                                    </p> */}
+                                    Made: 04/18/2019
+                                    </p>
                             </div>
                         </a>
                     </div>
                 </div>
                 <div className="project5" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat", height: "vh" }}>
-                    <div className='middle'>
-                        <a href="/">
+                    <div className='middle1'>
+                        <a href="http://app5-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
-                                    5. Coming Soon...
+                                    5. Flex Panels
                                 </h2>
-                                {/* <h4 style={{padding: 5}}>
-                                    Simple app to help users find shows similar to the ones they are currently watching.</h4>
+                                <h4 style={{padding: 5}}>
+                                    Interactive opening/closing flex panel that display encouraging words.
+                                </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
-                                    JavaScript, React, JSX, Axios, TasteDive API, HTML, & CSS.
+                                    JavaScript, HTML, & CSS.
                                 </p>
                                 <p style={{ margin: 0, marginRight: 5 }}>
-                                    Made: 04/18/2019
-                                </p> */}
+                                    Made: 04/19/2019
+                                </p>
                             </div>
                         </a>
                     </div>
