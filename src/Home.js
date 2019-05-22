@@ -76,16 +76,16 @@ const Home = () => {
                         <a href="http://app3-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
-                                    3. Scoped CSS Variables & CSS
+                                    3. Scoped CSS Variables & JS
                                 </h2>
                                 <h4 style={{padding: 5}}>
-                                    Simple app that enables a user to quickly adjust styling on screen with implemented JS functionality.
+                                    Simple app that enables a user to adjust styling settings on screen.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
                                 </p>
                                 <p style={{ margin: 0, marginRight: 5 }}>
-                                    Made: 04/17/2019
+                                    Made: 05/17/2019
                                 </p>
                             </div>
                         </a>
@@ -105,7 +105,7 @@ const Home = () => {
                                     JavaScript, HTML, & CSS.
                                 </p>
                                 <p style={{ margin: 0, marginRight: 5 }}>
-                                    Made: 04/18/2019
+                                    Made: 05/18/2019
                                 </p>
                             </div>
                         </a>
@@ -125,46 +125,48 @@ const Home = () => {
                                     JavaScript, HTML, & CSS.
                                 </p>
                                 <p style={{ margin: 0, marginRight: 5 }}>
-                                    Made: 04/19/2019
+                                    Made: 05/19/2019
                                 </p>
                             </div>
                         </a>
                     </div>
                 </div>
                 <div className="project6" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat", height: "vh" }}>
-                    <div className='middle'>
-                        <a href="/">
+                    <div className='middle1'>
+                        <a href="http://app6-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
-                                    6. Coming Soon...
+                                    6. Type Ahead
                                 </h2>
-                                {/* <h4 style={{padding: 5}}>
-                                    Simple app to help users find the perfect color if they are having a hard time finding a color.</h4>
+                                <h4 style={{padding: 5}}>
+                                    Simple app that checks the population of any city in the United States.
+                                </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
-                                    JavaScript, React, JSX, HTML, & CSS.
+                                    JavaScript, HTML, & CSS.
                                 </p>
                                 <p style={{ margin: 0, marginRight: 5 }}>
-                                    Made: 04/19/2019
-                                </p> */}
+                                    Made: 05/20/2019
+                                </p>
                             </div>
                         </a>
                     </div>
                 </div>
                 <div className="project7" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat", height: "vh" }}>
-                    <div className='middle'>
-                        <a href="/">
+                    <div className='middle1'>
+                        <a href="http://app7-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
-                                    7. Coming Soon...
+                                    7. Array Cardio 2.0
                                 </h2>
-                                {/* <h4 style={{ padding: 5 }}>
-                                    Simple app to help users keep up to date with the 2018-2019 NBA Playoff season.</h4>
+                                <h4 style={{ padding: 5 }}>
+                                    Practiced higher order functions such as some, every, find, and find index.
+                                </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
-                                    JavaScript, React, JSX, Axios, BallDontLie API, HTML, & CSS.
+                                    JavaScript, HTML, & CSS.
                                 </p>
                                 <p style={{ margin: 0, marginRight: 5 }}>
-                                    Made: 04/20/2019
-                                </p> */}
+                                    Made: 05/21/2019
+                                </p>
                             </div>
                         </a>
                     </div>
@@ -178,7 +180,7 @@ const Home = () => {
                                 </h2>
                                 {/* <h4 style={{ padding: 5 }}>Simple advice app to humor users with fun realistic/funny life advice.</h4>
                                 <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Advice Slip API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 04/21/2019</p> */}
+                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/21/2019</p> */}
                             </div>
                         </a>
                     </div>
@@ -190,7 +192,7 @@ const Home = () => {
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>9. Coming Soon...</h2>
                                 {/* <h4 style={{ padding: 5 }}>Simple dad jokes app to help users smile by reading some awful dad jokes.</h4>
                                 <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Dad Jokes API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 04/22/2019</p> */}
+                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/22/2019</p> */}
                             </div>
                         </a>
                     </div>
@@ -202,7 +204,7 @@ const Home = () => {
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>10. Coming Soon...</h2>
                                 {/* <h4 style={{ padding: 5 }}>Simple dog rating app that puts smiles on users by looking at cute dogos.</h4>
                                 <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Dog API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 04/23/2019</p> */}
+                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/23/2019</p> */}
                             </div>
                         </a>
                     </div>
@@ -216,7 +218,7 @@ const Home = () => {
                                     Simple app that checks your probability of either being male or female.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Gender API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 04/24/2019</p> */}
+                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/24/2019</p> */}
                             </div>
                         </a>
                     </div>
@@ -230,7 +232,7 @@ const Home = () => {
                                     Simple app to help users find movies similar to the ones they are currently watching.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, TasteDive API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 04/25/2019</p> */}
+                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/25/2019</p> */}
                             </div>
                         </a>
                     </div>
@@ -244,7 +246,7 @@ const Home = () => {
                                     Simple app to help users find what Trump has said about a specific topic/person.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Tronald API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 04/26/2019</p> */}
+                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/26/2019</p> */}
                             </div>
                         </a>
                     </div>
@@ -258,7 +260,7 @@ const Home = () => {
                                     An endless fun of fox images from the fox API!
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Fox API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 04/27/2019</p> */}
+                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/27/2019</p> */}
                             </div>
                         </a>
                     </div>
@@ -272,7 +274,7 @@ const Home = () => {
                                     Simple app to help users practice their Tic Tac Toe skills.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 04/28/2019</p> */}
+                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/28/2019</p> */}
                             </div>
                         </a>
                     </div>
@@ -286,7 +288,7 @@ const Home = () => {
                                     Simple app to help users find things to do if they're bored.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Bored API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 04/29/2019</p> */}
+                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/29/2019</p> */}
                             </div>
                         </a>
                     </div>
@@ -300,7 +302,7 @@ const Home = () => {
                                     Simple food recipe app to help users find and attempt to make new foods.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Recipe Puppy API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 04/30/2019</p> */}
+                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/30/2019</p> */}
                             </div>
                         </a>
                     </div>
