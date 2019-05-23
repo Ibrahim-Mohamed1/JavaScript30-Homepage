@@ -172,15 +172,21 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="project8" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat", height: "vh" }}>
-                    <div className='middle'>
-                        <a href="/">
+                    <div className='middle1'>
+                        <a href="http://app8-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
-                                    8. Coming Soon...
+                                    8. HTML5 Canvas
                                 </h2>
-                                {/* <h4 style={{ padding: 5 }}>Simple advice app to humor users with fun realistic/funny life advice.</h4>
-                                <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Advice Slip API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/21/2019</p> */}
+                                <h4 style={{ padding: 5 }}>
+                                    Simple canvas for users to draw anything they like. Current drawing color cycles between through the rainbow as the user draws.
+                                </h4>
+                                <p style={{ color: "lime", padding: 5 }}>
+                                    JavaScript, HTML, & CSS.
+                                </p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 05/22/2019
+                                </p>
                             </div>
                         </a>
                     </div>
