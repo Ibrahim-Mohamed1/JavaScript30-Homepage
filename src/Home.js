@@ -192,25 +192,41 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="project9" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat", height: "vh" }}>
-                    <div className='middle'>
-                        <a href="/">
+                    <div className='middle1'>
+                        <a href="http://app9-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
-                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>9. Coming Soon...</h2>
-                                {/* <h4 style={{ padding: 5 }}>Simple dad jokes app to help users smile by reading some awful dad jokes.</h4>
-                                <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Dad Jokes API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/22/2019</p> */}
+                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
+                                    9. Console Tricks
+                                </h2>
+                                <h4 style={{ padding: 5 }}>
+                                    Learned all the tips and tricks of operating the console to maximum efficiency.
+                                </h4>
+                                <p style={{ color: "lime", padding: 5 }}>
+                                    JavaScript, HTML, & CSS.
+                                </p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 05/23/2019
+                                </p>
                             </div>
                         </a>
                     </div>
                 </div>
                 <div className="project10" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat", height: "vh" }}>
-                    <div className='middle'>
-                        <a href="/">
+                    <div className='middle1'>
+                        <a href="http://app10-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
-                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>10. Coming Soon...</h2>
-                                {/* <h4 style={{ padding: 5 }}>Simple dog rating app that puts smiles on users by looking at cute dogos.</h4>
-                                <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Dog API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/23/2019</p> */}
+                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
+                                    10. Inbox Checklist
+                                </h2>
+                                <h4 style={{ padding: 5 }}>
+                                    Created a functionality to check off every items in between two different items in a list.
+                                </h4>
+                                <p style={{ color: "lime", padding: 5 }}>
+                                    JavaScript, HTML, & CSS.
+                                </p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 05/24/2019
+                                </p>
                             </div>
                         </a>
                     </div>
