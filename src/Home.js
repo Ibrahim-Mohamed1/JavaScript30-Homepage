@@ -58,7 +58,7 @@ const Home = () => {
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
                                     2. JS + CSS Clock
                                 </h2>
-                                <h4 style={{padding: 5}}>
+                                <h4 style={{ padding: 5 }}>
                                     Functional and simplistic analog clock.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
@@ -78,7 +78,7 @@ const Home = () => {
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
                                     3. Scoped CSS Variables & JS
                                 </h2>
-                                <h4 style={{padding: 5}}>
+                                <h4 style={{ padding: 5 }}>
                                     Simple app that enables a user to adjust styling settings on screen.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
@@ -98,7 +98,7 @@ const Home = () => {
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
                                     4. Array Cardio
                                 </h2>
-                                <h4 style={{padding: 5}}>
+                                <h4 style={{ padding: 5 }}>
                                     Practiced higher order functions such as filter, sort, map, and reduce.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
@@ -118,7 +118,7 @@ const Home = () => {
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
                                     5. Flex Panels
                                 </h2>
-                                <h4 style={{padding: 5}}>
+                                <h4 style={{ padding: 5 }}>
                                     Interactive opening/closing flex panel that display encouraging words.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
@@ -138,7 +138,7 @@ const Home = () => {
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
                                     6. Type Ahead
                                 </h2>
-                                <h4 style={{padding: 5}}>
+                                <h4 style={{ padding: 5 }}>
                                     Simple app that checks the population of any city in the United States.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
@@ -199,7 +199,7 @@ const Home = () => {
                                     9. Console Tricks
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Learned all the tips and tricks of operating the console to maximum efficiency.
+                                    Learned all the tips and tricks of operating the  to maximum efficiency.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
