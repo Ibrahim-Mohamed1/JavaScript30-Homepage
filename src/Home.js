@@ -199,7 +199,7 @@ const Home = () => {
                                     9. Console Tricks
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Learned all the tips and tricks of operating the  to maximum efficiency.
+                                    Learned all the tips and tricks of operating the console to maximum efficiency.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
