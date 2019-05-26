@@ -235,12 +235,18 @@ const Home = () => {
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
-                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>11. Coming Soon...</h2>
-                                {/* <h4 style={{ padding: 5 }}>
-                                    Simple app that checks your probability of either being male or female.
+                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
+                                    11. Custom Video Player
+                                </h2>
+                                <h4 style={{ padding: 5 }}>
+                                    Customized video player features such as; scrubber, playback, fast forward, volume, and speed.
                                 </h4>
-                                <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Gender API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/24/2019</p> */}
+                                <p style={{ color: "lime", padding: 5 }}>
+                                    JavaScript, HTML, & CSS.
+                                </p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 05/25/2019
+                                </p>
                             </div>
                         </a>
                     </div>
