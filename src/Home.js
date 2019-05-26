@@ -252,15 +252,21 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="project12" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
-                    <div className='middle'>
-                        <a href="/">
+                    <div className='middle1'>
+                        <a href="http://app12-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
-                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>12. Coming Soon...</h2>
-                                {/* <h4 style={{ padding: 5 }}>
-                                    Simple app to help users find movies similar to the ones they are currently watching.
+                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
+                                    12. Key Detection
+                                </h2>
+                                <h4 style={{ padding: 5 }}>
+                                    Simple app to detect the letter 'f' to which a random unicorn/rainbow sticker is attached to the browser page.
                                 </h4>
-                                <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, TasteDive API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/25/2019</p> */}
+                                <p style={{ color: "lime", padding: 5 }}>
+                                    JavaScript, HTML, & CSS.
+                                </p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 05/26/2019
+                                </p>
                             </div>
                         </a>
                     </div>
