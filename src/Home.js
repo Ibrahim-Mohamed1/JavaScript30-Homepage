@@ -299,7 +299,7 @@ const Home = () => {
                                     14. Coming Soon...
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    An endless fun of fox images from the fox API!
+                                    Learned more about the differences between referencing and copying numbers, strings, boleans, arrays, and objects.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
