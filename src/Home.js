@@ -304,7 +304,9 @@ const Home = () => {
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, React, JSX, Axios, Fox API, HTML, & CSS.
                                 </p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/27/2019</p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 05/27/2019
+                                </p>
                             </div>
                         </a>
                     </div>
