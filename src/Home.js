@@ -295,7 +295,9 @@ const Home = () => {
                     <div className='middle1'>
                         <a href="http://app13-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
-                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>14. Coming Soon...</h2>
+                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
+                                    14. Coming Soon...
+                                </h2>
                                 {/* <h4 style={{ padding: 5 }}>
                                     An endless fun of fox images from the fox API!
                                 </h4>
