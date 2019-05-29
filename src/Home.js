@@ -298,11 +298,11 @@ const Home = () => {
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
                                     14. Coming Soon...
                                 </h2>
-                                {/* <h4 style={{ padding: 5 }}>
+                                <h4 style={{ padding: 5 }}>
                                     An endless fun of fox images from the fox API!
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Fox API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/27/2019</p> */}
+                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/27/2019</p>
                             </div>
                         </a>
                     </div>
