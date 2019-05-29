@@ -276,7 +276,7 @@ const Home = () => {
                         <a href="http://app13-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
-                                    13. Coming
+                                    13. Slide In On Scroll
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
                                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore autem nulla qui error natus, omnis assumenda voluptatem nesciunt provident sint quaerat eum in praesentium a saepe iste deleniti cupiditate optio.
