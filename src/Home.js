@@ -302,7 +302,7 @@ const Home = () => {
                                     An endless fun of fox images from the fox API!
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
-                                    JavaScript, React, JSX, Axios, Fox API, HTML, & CSS.
+                                    JavaScript, HTML, & CSS.
                                 </p>
                                 <p style={{ margin: 0, marginRight: 5 }}>
                                     Made: 05/28/2019
