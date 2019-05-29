@@ -272,15 +272,21 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="project13" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
-                    <div className='middle'>
-                        <a href="/">
+                    <div className='middle1'>
+                        <a href="http://app13-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
-                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>13. Coming Soon...</h2>
-                                {/* <h4 style={{ padding: 5 }}>
-                                    Simple app to help users find what Trump has said about a specific topic/person.
+                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
+                                    13. Coming Soon...
+                                </h2>
+                                <h4 style={{ padding: 5 }}>
+                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore autem nulla qui error natus, omnis assumenda voluptatem nesciunt provident sint quaerat eum in praesentium a saepe iste deleniti cupiditate optio.
                                 </h4>
-                                <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Tronald API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/26/2019</p> */}
+                                <p style={{ color: "lime", padding: 5 }}>
+                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio cumque enim et nam, dolorem eius ex a vel. Eius mollitia, fuga iusto eveniet odit unde provident accusantium quibusdam non suscipit!
+                                </p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 05/xx/2019
+                                </p>
                             </div>
                         </a>
                     </div>
