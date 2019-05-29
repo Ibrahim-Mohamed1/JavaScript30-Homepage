@@ -272,8 +272,8 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="project13" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
-                    <div className='middle'>
-                        <a href="http://app13-javascript30.surge.sh/">
+                    <div className='middle1'>
+                        <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
                                     13. Slide In On Scroll
