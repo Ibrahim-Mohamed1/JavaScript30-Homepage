@@ -293,7 +293,7 @@ const Home = () => {
                 </div>
                 <div className="project14" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
                     <div className='middle1'>
-                        <a href="http://app13-javascript30.surge.sh/">
+                        <a href="http://app14-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
                                     14. JS References VS Copy
