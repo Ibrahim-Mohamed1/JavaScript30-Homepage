@@ -285,7 +285,7 @@ const Home = () => {
                                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, natus molestiae. Eum similique itaque, exercitationem iure magnam, sit sapiente, ipsum illo blanditiis nihil perferendis dignissimos sunt sint praesentium dolore debitis!
                                 </p>
                                 <p style={{ margin: 0, marginRight: 5 }}>
-                                    Made: 05/xx/2019
+                                    Made: 05/27/2019
                                 </p>
                             </div>
                         </a>
