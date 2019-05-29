@@ -282,7 +282,7 @@ const Home = () => {
                                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore autem nulla qui error natus, omnis assumenda voluptatem nesciunt provident sint quaerat eum in praesentium a saepe iste deleniti cupiditate optio.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
-                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio cumque enim et nam, dolorem eius ex a vel. Eius mollitia, fuga iusto eveniet odit unde provident accusantium quibusdam non suscipit!
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, natus molestiae. Eum similique itaque, exercitationem iure magnam, sit sapiente, ipsum illo blanditiis nihil perferendis dignissimos sunt sint praesentium dolore debitis!
                                 </p>
                                 <p style={{ margin: 0, marginRight: 5 }}>
                                     Made: 05/xx/2019
