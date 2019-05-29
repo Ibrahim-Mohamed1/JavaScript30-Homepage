@@ -279,7 +279,7 @@ const Home = () => {
                                     13. Slide In On Scroll
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore autem nulla qui error natus, omnis assumenda voluptatem nesciunt provident sint quaerat eum in praesentium a saepe iste deleniti cupiditate optio.
+                                    Unique and interesting way for a user to experience reading on a website by having the images slide in on scroll.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
