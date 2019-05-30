@@ -315,12 +315,18 @@ const Home = () => {
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
-                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>15. Coming Soon...</h2>
-                                {/* <h4 style={{ padding: 5 }}>
+                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
+                                    15. Coming Soon...
+                                </h2>
+                                <h4 style={{ padding: 5 }}>
                                     Simple app to help users practice their Tic Tac Toe skills.
                                 </h4>
-                                <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/28/2019</p> */}
+                                <p style={{ color: "lime", padding: 5 }}>
+                                    JavaScript, React, JSX, Axios, HTML, & CSS.
+                                </p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 05/28/2019
+                                </p>
                             </div>
                         </a>
                     </div>
