@@ -322,7 +322,7 @@ const Home = () => {
                                     Simple app to help users practice their Tic Tac Toe skills.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
-                                    JavaScript, React, JSX, Axios, HTML, & CSS.
+                                    JavaScript, HTML, & CSS.
                                 </p>
                                 <p style={{ margin: 0, marginRight: 5 }}>
                                     Made: 05/28/2019
