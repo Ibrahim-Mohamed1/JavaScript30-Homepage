@@ -296,7 +296,7 @@ const Home = () => {
                         <a href="http://app14-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
-                                    14. JS References VS Copy
+                                    14. References VS Copy
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
                                     Learned more about the differences between referencing and copying numbers, strings, booleans, arrays, and objects.
@@ -319,7 +319,7 @@ const Home = () => {
                                     15. Local Storage
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Engaging web application where a user can make a list of items they'd like on their tapas. Quirky little feature where check mark turns into a taco has been implemented.
+                                    Engaging web application where a user can make a list of items they'd like on their tapas. Checkmark turns into a taco when checked.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
