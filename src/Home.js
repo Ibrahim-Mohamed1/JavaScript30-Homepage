@@ -319,7 +319,7 @@ const Home = () => {
                                     15. Local Storage
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Simple app to help users practice their Tic Tac Toe skills.
+                                    Engaging web application where a user can make a list of items they'd like on their tapas. Quirky little feature where check mark turns into a taco has been implemented.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
