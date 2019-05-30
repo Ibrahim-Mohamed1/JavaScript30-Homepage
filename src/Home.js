@@ -313,7 +313,7 @@ const Home = () => {
                 </div>
                 <div className="project15" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
                     <div className='middle1'>
-                        <a href="/">
+                        <a href="http://app15-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
                                     15. Local Storage
