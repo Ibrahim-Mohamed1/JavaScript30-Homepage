@@ -336,10 +336,10 @@ const Home = () => {
                         <a href="http://app16-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
-                                    16. Coming Soon...
+                                    16. Magic Mouse
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Simple app to help users find things to do if they're bored.
+                                    Quadruple shadow affect on a single word on the center of the screen. Shadows are different colors and follow mouse movement.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, React, JSX, Axios, Bored API, HTML, & CSS.
