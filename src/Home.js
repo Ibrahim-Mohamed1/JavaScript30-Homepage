@@ -332,15 +332,21 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="project16" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
-                    <div className='middle'>
-                        <a href="/">
+                    <div className='middle1'>
+                        <a href="http://app16-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
-                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>16. Coming Soon...</h2>
-                                {/* <h4 style={{ padding: 5 }}>
+                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
+                                    16. Coming Soon...
+                                </h2>
+                                <h4 style={{ padding: 5 }}>
                                     Simple app to help users find things to do if they're bored.
                                 </h4>
-                                <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Bored API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/29/2019</p> */}
+                                <p style={{ color: "lime", padding: 5 }}>
+                                    JavaScript, React, JSX, Axios, Bored API, HTML, & CSS.
+                                </p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 05/30/2019
+                                </p>
                             </div>
                         </a>
                     </div>
