@@ -31,7 +31,7 @@ const Home = () => {
             <br />
             <h1 style={{ textAlign: "center", color: "cyan" }}>JavaScript 30 Challenge</h1>
             <div className="projects">
-                <div className="project1" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project1" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
                         <a href="http://app1-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1em" }}>
@@ -51,7 +51,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project2" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project2" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
                         <a href="http://app2-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -71,7 +71,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project3" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project3" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
                         <a href="http://app3-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -91,7 +91,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project4" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project4" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
                         <a href="http://app4-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -111,7 +111,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project5" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project5" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
                         <a href="http://app5-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -131,7 +131,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project6" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project6" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
                         <a href="http://app6-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -151,7 +151,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project7" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project7" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
                         <a href="http://app7-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -171,7 +171,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project8" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project8" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
                         <a href="http://app8-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -191,7 +191,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project9" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project9" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
                         <a href="http://app9-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -211,7 +211,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project10" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project10" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
                         <a href="http://app10-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -231,7 +231,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project11" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project11" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
                         <a href="http://app11-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -251,7 +251,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project12" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project12" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
                         <a href="http://app12-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -271,7 +271,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project13" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project13" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
                         <a href="http://app13-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -291,7 +291,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project14" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project14" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
                         <a href="http://app14-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -311,7 +311,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project15" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project15" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
                         <a href="http://app15-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -331,7 +331,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project16" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project16" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
                         <a href="http://app16-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -351,7 +351,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project17" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project17" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -365,7 +365,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project18" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project18" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -379,7 +379,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project19" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project19" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -393,7 +393,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project20" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project20" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -407,7 +407,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project21" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project21" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -421,7 +421,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project22" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project22" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -435,7 +435,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project23" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project23" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -449,7 +449,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project24" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project24" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -463,7 +463,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project25" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project25" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -477,7 +477,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project26" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project26" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -491,7 +491,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project27" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project27" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -505,7 +505,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project28" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project28" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -519,7 +519,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project29" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project29" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
@@ -532,7 +532,7 @@ const Home = () => {
                         </a>
                     </div>
                 </div>
-                <div className="project30" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat"}}>
+                <div className="project30" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
