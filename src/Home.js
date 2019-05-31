@@ -342,7 +342,7 @@ const Home = () => {
                                     Quadruple shadow affect on a single word on the center of the screen. Shadows are different colors and follow mouse movement.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
-                                    JavaScript, React, JSX, Axios, Bored API, HTML, & CSS.
+                                    JavaScript, HTML, & CSS.
                                 </p>
                                 <p style={{ margin: 0, marginRight: 5 }}>
                                     Made: 05/30/2019
