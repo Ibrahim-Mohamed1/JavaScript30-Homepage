@@ -362,7 +362,7 @@ const Home = () => {
                                     Expanded understanding of sort by organizing a list of my favorite bands in alphabetical order without their articles affecting the order.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
-                                    JavaScript, React, JSX, Axios, Recipe Puppy API, HTML, & CSS.
+                                    JavaScript, HTML, & CSS.
                                 </p>
                                 <p style={{ margin: 0, marginRight: 5 }}>
                                     Made: 05/31/2019
