@@ -353,13 +353,13 @@ const Home = () => {
                 </div>
                 <div className="project17" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
-                        <a href="/">
+                        <a href="http://app17-javascript30.surge.sh/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
                                     17. Sort Without Articles
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Simple food recipe app to help users find and attempt to make new foods.
+                                    Expanded understanding of sort by organizing a list of my favorite bands in alphabetical order without their articles affecting the order.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, React, JSX, Axios, Recipe Puppy API, HTML, & CSS.
