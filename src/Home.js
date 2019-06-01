@@ -355,12 +355,18 @@ const Home = () => {
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
-                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>17. Coming Soon...</h2>
-                                {/* <h4 style={{ padding: 5 }}>
+                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
+                                    17. Coming Soon...
+                                </h2>
+                                <h4 style={{ padding: 5 }}>
                                     Simple food recipe app to help users find and attempt to make new foods.
                                 </h4>
-                                <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Recipe Puppy API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/30/2019</p> */}
+                                <p style={{ color: "lime", padding: 5 }}>
+                                    JavaScript, React, JSX, Axios, Recipe Puppy API, HTML, & CSS.
+                                </p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 05/31/2019
+                                </p>
                             </div>
                         </a>
                     </div>
