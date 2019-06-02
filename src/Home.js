@@ -381,8 +381,12 @@ const Home = () => {
                                 <h4 style={{ padding: 5 }}>
                                     Simple jokes app to help users smile by reading some great programmer/funny jokes.
                                 </h4>
-                                <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Jokes API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/1/2019</p>
+                                <p style={{ color: "lime", padding: 5 }}>J
+                                    avaScript, React, JSX, Axios, Jokes API, HTML, & CSS.
+                                </p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 06/1/2019
+                                </p>
                             </div>
                         </a>
                     </div>
