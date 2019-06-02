@@ -375,12 +375,14 @@ const Home = () => {
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
-                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>18. Coming Soon...</h2>
-                                {/* <h4 style={{ padding: 5 }}>
+                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
+                                    18. Coming Soon...
+                                </h2>
+                                <h4 style={{ padding: 5 }}>
                                     Simple jokes app to help users smile by reading some great programmer/funny jokes.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Jokes API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/1/2019</p> */}
+                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/1/2019</p>
                             </div>
                         </a>
                     </div>
