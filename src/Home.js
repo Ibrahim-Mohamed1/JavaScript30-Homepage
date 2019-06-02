@@ -376,7 +376,7 @@ const Home = () => {
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
-                                    18. Coming Soon...
+                                    18. Videos Total Time
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
                                     Simple jokes app to help users smile by reading some great programmer/funny jokes.
