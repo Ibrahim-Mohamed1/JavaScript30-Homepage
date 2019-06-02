@@ -379,7 +379,7 @@ const Home = () => {
                                     18. Videos Total Time
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Simple jokes app to help users smile by reading some great programmer/funny jokes.
+                                    Using the reduce method to find the total seconds, minutes, and hours of the videos.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
