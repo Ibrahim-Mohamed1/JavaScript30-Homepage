@@ -395,7 +395,9 @@ const Home = () => {
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
-                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>19. Coming Soon...</h2>
+                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
+                                    19. Coming Soon
+                                </h2>
                                 {/* <h4 style={{ padding: 5 }}>
                                     Simple fake id app that users can engage with.
                                 </h4>
