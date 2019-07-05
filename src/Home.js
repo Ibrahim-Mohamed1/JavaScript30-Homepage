@@ -393,7 +393,7 @@ const Home = () => {
                 </div>
                 <div className="project19" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
-                        <a href="http://app19-javascript30.surge.sh/">
+                        <a href="http://app19-javascript30.netlify.com/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
                                     19. Photobooth
@@ -416,11 +416,15 @@ const Home = () => {
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>20. Coming Soon...</h2>
-                                {/* <h4 style={{ padding: 5 }}>
+                                <h4 style={{ padding: 5 }}>
                                     Simple app to help users quickly figure out their ip address.
                                 </h4>
-                                <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Ipify API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/3/2019</p> */}
+                                <p style={{ color: "lime", padding: 5 }}>
+                                    JavaScript, React, JSX, Axios, Ipify API, HTML, & CSS.
+                                </p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 05/3/2019
+                                </p>
                             </div>
                         </a>
                     </div>
