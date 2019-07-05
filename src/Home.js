@@ -396,13 +396,17 @@ const Home = () => {
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
-                                    19. Coming Soon
+                                    19. Photobooth
                                 </h2>
-                                {/* <h4 style={{ padding: 5 }}>
-                                    Simple fake id app that users can engage with.
+                                <h4 style={{ padding: 5 }}>
+                                    Recreated a photobooth with a crazy color effect added to images that users can also download.
                                 </h4>
-                                <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, UI Names API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/2/2019</p> */}
+                                <p style={{ color: "lime", padding: 5 }}>
+                                    JavaScript, HTML, & CSS.
+                                </p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 06/2/2019
+                                </p>
                             </div>
                         </a>
                     </div>
