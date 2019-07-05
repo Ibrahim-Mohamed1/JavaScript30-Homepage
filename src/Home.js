@@ -420,7 +420,7 @@ const Home = () => {
                                     Simple app to help users quickly figure out their ip address.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
-                                    JavaScript, React, JSX, Axios, Ipify API, HTML, & CSS.
+                                    JavaScript, HTML, & CSS.
                                 </p>
                                 <p style={{ margin: 0, marginRight: 5 }}>
                                     Made: 05/3/2019
