@@ -412,7 +412,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="project20" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
-                    <div className='middle'>
+                    <div className='middle1'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>20. Coming Soon...</h2>
@@ -426,7 +426,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="project21" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
-                    <div className='middle'>
+                    <div className='middle1'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>21. Coming Soon...</h2>
@@ -440,7 +440,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="project22" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
-                    <div className='middle'>
+                    <div className='middle1'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>22. Coming Soon...</h2>
@@ -454,7 +454,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="project23" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
-                    <div className='middle'>
+                    <div className='middle1'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>23. Coming Soon...</h2>
@@ -468,7 +468,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="project24" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
-                    <div className='middle'>
+                    <div className='middle1'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>24. Coming Soon...</h2>
@@ -510,7 +510,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="project27" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
-                    <div className='middle'>
+                    <div className='middle1'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>27. Coming Soon...</h2>
@@ -524,7 +524,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="project28" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
-                    <div className='middle'>
+                    <div className='middle1'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>28. Coming Soon...</h2>
@@ -538,7 +538,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="project29" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
-                    <div className='middle'>
+                    <div className='middle1'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>29. Coming Soon...</h2>
@@ -551,7 +551,7 @@ const Home = () => {
                     </div>
                 </div>
                 <div className="project30" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
-                    <div className='middle'>
+                    <div className='middle1'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>30. Coming Soon...</h2>
