@@ -495,12 +495,18 @@ const Home = () => {
                     <div className='middle1'>
                         <a href="http://app24-javascript30.netlify.com/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
-                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>24. Coming Soon...</h2>
-                                {/* <h4 style={{ padding: 5 }}>
+                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
+                                    24. Coming Soon...
+                                </h2>
+                                <h4 style={{ padding: 5 }}>
                                     Simple lyric app to help users practice singing along to their favorite songs.
                                 </h4>
-                                <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Lyric API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/7/2019</p> */}
+                                <p style={{ color: "lime", padding: 5 }}>
+                                    JavaScript, HTML, & CSS.
+                                </p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 06/7/2019
+                                </p>
                             </div>
                         </a>
                     </div>
