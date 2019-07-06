@@ -434,11 +434,15 @@ const Home = () => {
                         <a href="http://app21-javascript30.netlify.com/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>21. Coming Soon...</h2>
-                                {/* <h4 style={{ padding: 5 }}>
+                                <h4 style={{ padding: 5 }}>
                                     Simple app that helps users find company logos to implement into their projects
                                 </h4>
-                                <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Clearbit Logo API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/4/2019</p> */}
+                                <p style={{ color: "lime", padding: 5 }}>
+                                    JavaScript, React, JSX, Axios, Clearbit Logo API, HTML, & CSS.
+                                </p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 05/4/2019
+                                </p>
                             </div>
                         </a>
                     </div>
