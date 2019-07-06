@@ -515,12 +515,18 @@ const Home = () => {
                     <div className='middle'>
                         <a href="/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
-                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>25. Coming Soon...</h2>
-                                {/* <h4 style={{ padding: 5 }}>
+                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
+                                    25. Coming Soon...
+                                </h2>
+                                <h4 style={{ padding: 5 }}>
                                     Simple app that checks the availability of a users desired domain.
                                 </h4>
-                                <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Domain API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/8/2019</p> */}
+                                <p style={{ color: "lime", padding: 5 }}>
+                                    JavaScript, HTML, & CSS.
+                                </p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 06/8/2019
+                                </p>
                             </div>
                         </a>
                     </div>
