@@ -555,12 +555,18 @@ const Home = () => {
                     <div className='middle1'>
                         <a href="http://app27-javascript30.netlify.com/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
-                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>27. Coming Soon...</h2>
-                                {/* <h4 style={{ padding: 5 }}>
+                                <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
+                                    27. Coming Soon...
+                                </h2>
+                                <h4 style={{ padding: 5 }}>
                                     Simple app that checks the probability of a user and their crushes compatibility.
                                 </h4>
-                                <p style={{ color: "lime", padding: 5 }}>JavaScript, React, JSX, Axios, Love Calculator API, HTML, & CSS.</p>
-                                <p style={{ margin: 0, marginRight: 5 }}>Made: 05/10/2019</p> */}
+                                <p style={{ color: "lime", padding: 5 }}>
+                                    JavaScript, HTML, & CSS.
+                                </p>
+                                <p style={{ margin: 0, marginRight: 5 }}>
+                                    Made: 06/10/2019
+                                </p>
                             </div>
                         </a>
                     </div>
