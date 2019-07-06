@@ -537,7 +537,7 @@ const Home = () => {
                 </div>
                 <div className="project28" style={{ cursor: "pointer", backgroundSize: "cover", backgroundRepeat: "no-repeat" }}>
                     <div className='middle1'>
-                        <a href="/">
+                        <a href="http://app28-javascript30.netlify.com/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>28. Coming Soon...</h2>
                                 {/* <h4 style={{ padding: 5 }}>
