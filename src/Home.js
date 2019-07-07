@@ -545,7 +545,7 @@ const Home = () => {
                                     JavaScript, HTML, & CSS.
                                 </p>
                                 <p style={{ margin: 0, marginRight: 5 }}>
-                                    Made: 06/9/2019
+                                    Made: 06/09/2019
                                 </p>
                             </div>
                         </a>
