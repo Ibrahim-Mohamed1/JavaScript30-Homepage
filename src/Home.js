@@ -556,7 +556,7 @@ const Home = () => {
                         <a href="http://app27-javascript30.netlify.com/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
-                                    27. Coming Soon...
+                                    27. Sliding Curtains
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
                                     Simple app that checks the probability of a user and their crushes compatibility.
