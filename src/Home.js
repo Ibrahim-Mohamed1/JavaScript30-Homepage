@@ -596,7 +596,7 @@ const Home = () => {
                         <a href="http://app29-javascript30.netlify.com/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
-                                    29. Coming Soon...
+                                    29. Timer
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
                                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit soluta quam veritatis sint natus est.
