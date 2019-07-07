@@ -576,7 +576,7 @@ const Home = () => {
                         <a href="http://app28-javascript30.netlify.com/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
-                                    28. Coming Soon...
+                                    28. Video Speed Scrubber
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
                                     Simple app to help users find search and find desired content on a replica of Google.
