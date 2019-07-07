@@ -616,7 +616,7 @@ const Home = () => {
                         <a href="http://app30-javascript30.netlify.com/">
                             <div className='projectInfo' style={{ marginTop: "-1.5em" }}>
                                 <h2 className="nav" style={{ marginTop: 0, color: "cyan", padding: "2%" }}>
-                                    30. Coming Soon...
+                                    30. Wack-A-Mole
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
                                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore sed fuga perspiciatis obcaecati!
