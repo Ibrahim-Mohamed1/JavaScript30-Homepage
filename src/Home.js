@@ -439,7 +439,7 @@ const Home = () => {
                                     21. Compass
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Simple app that helps users find company logos to implement into their projects
+                                    Awesome compass app for users to know their speed and the geographical direction they are facing.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
