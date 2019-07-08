@@ -419,7 +419,7 @@ const Home = () => {
                                     20. Voice Memos
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Simple app to help users quickly figure out their ip address.
+                                    Simple voice memo app for users to easily log important reminders and information.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
