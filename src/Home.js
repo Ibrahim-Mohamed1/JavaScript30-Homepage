@@ -599,7 +599,7 @@ const Home = () => {
                                     29. Timer
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit soluta quam veritatis sint natus est.
+                                    Useful timer app that allows a user to set a time for a break of any length, user can see time remaining in tab title.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
