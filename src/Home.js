@@ -539,7 +539,7 @@ const Home = () => {
                                     26. Drop Down Nav
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Simple app to help users understand the slang of todays teens.
+                                    Interactive drop down navigation for tabs that provide more information on the tab.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
