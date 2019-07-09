@@ -519,7 +519,7 @@ const Home = () => {
                                     25. JavaScript Capture
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Simple app that checks the availability of a users desired domain.
+                                    Perfected Javascript capture through capture and propagation.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
