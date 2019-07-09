@@ -499,7 +499,7 @@ const Home = () => {
                                     24. Sticky Nav
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Simple lyric app to help users practice singing along to their favorite songs.
+                                    Creative sticky navigation to allow users to have access to all important tabs at anytime.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
