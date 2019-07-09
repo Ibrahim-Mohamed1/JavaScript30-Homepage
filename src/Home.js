@@ -579,7 +579,7 @@ const Home = () => {
                                     28. Video Speed Scrubber
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Simple app to help users find search and find desired content on a replica of Google.
+                                    Fun video speed scrubber that allows a user to be the DJ of the videos play speed at anytime.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
