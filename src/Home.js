@@ -459,7 +459,7 @@ const Home = () => {
                                     22. Follow Along Nav
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Simple app that helps users practice previous jeopardy questions to become the next Jeopardy winner.
+                                    Immersive follow along navigation to important words on the current page.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
