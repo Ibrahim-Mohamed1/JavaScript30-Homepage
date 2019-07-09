@@ -619,7 +619,7 @@ const Home = () => {
                                     30. Wack-A-Mole
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore sed fuga perspiciatis obcaecati!
+                                    Fun & immersive recreation of the classic game Wack-A-Mole!
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
