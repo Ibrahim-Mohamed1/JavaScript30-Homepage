@@ -559,7 +559,7 @@ const Home = () => {
                                     27. Sliding Curtains
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Simple app that checks the probability of a user and their crushes compatibility.
+                                    Playful sliding curtains that allow a user to scroll horizontally or grab and drag the curtains.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
