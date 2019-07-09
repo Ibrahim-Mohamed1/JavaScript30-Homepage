@@ -479,7 +479,7 @@ const Home = () => {
                                     23. Text To Speech
                                 </h2>
                                 <h4 style={{ padding: 5 }}>
-                                    Simple app to amuse users with quotes by Kanye West.
+                                    Innovative and simple way for users to have text read to them if they are tired or don't want to read.
                                 </h4>
                                 <p style={{ color: "lime", padding: 5 }}>
                                     JavaScript, HTML, & CSS.
